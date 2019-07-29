@@ -4,8 +4,8 @@
 
 ## Purpose
 To provide a base GTM container for libraries using the Summon \(v2\) discovery service. There are two versions of a Summon GTM container:
-* **GTM\-Summon\-Standard\.json**: Adds pageview tracking and several click based events (user actions) for a Google Analytics account\. Here is an [Example GTM Summon Standard Report in Google Data Studio](https://datastudio.google.com/open/11XG44s5N_F4JbOXl6Zh_h5n_BqIateMW) so you can preview some data this container provides. **NOTE:** GDS doesn't work well in Internet Explorer. 
-* **GTM\-Summon\-Advance\.json**: All the tags in Standard(v1) container with the addition of custom dimensions being pushed in several event tags. To fully use this container, you will need to set up custom dimensions in your Google Analytics account\. Here is an [Example GTM Summon Advance Report in Google Data Studio](https://datastudio.google.com/open/1zMM4vJQ05U-F0AB3cZkFQRIRun4FmG92) so you can see the use of the custom dimensions. **NOTE:** GDS doesn't work well in Internet Explorer. 
+* **GTM\-Summon\-Standard\.json**: Adds pageview tracking and several click based events (user actions) for a Google Analytics account\. Here is an [Example GTM Summon Standard Report in Google Data Studio](https://datastudio.google.com/open/11XG44s5N_F4JbOXl6Zh_h5n_BqIateMW) so you can preview some data this container provides. **NOTE:** GDS doesn't work well in Internet Explorer or Edge. 
+* **GTM\-Summon\-Advance\.json**: All the tags in Standard(v1) container with the addition of custom dimensions being pushed in several event tags. To fully use this container, you will need to set up custom dimensions in your Google Analytics account\. Here is an [Example GTM Summon Advance Report in Google Data Studio](https://datastudio.google.com/open/1zMM4vJQ05U-F0AB3cZkFQRIRun4FmG92) so you can see the use of the custom dimensions. **NOTE:** GDS doesn't work well in Internet Explorer or Edge. 
 
 See the [GTM-definitions spreadsheet](https://docs.google.com/spreadsheets/d/17hoq4iaxnwX5p5o5KX5_BD_EKqfNW7mc8puCeZhlpF0/edit?usp=sharing) for all the events being tracked\.
 
